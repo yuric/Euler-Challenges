@@ -1,3 +1,7 @@
+#by Yuri Costa
+#Euler challanges at http://projecteuler.net/
+#MIT License
+
 i=1
 sumOfSquare = 0
 squareOfSum = 0

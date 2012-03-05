@@ -1,3 +1,6 @@
+#by Yuri Costa
+#Euler challanges at http://projecteuler.net/
+#MIT License
 
 e=1
 mod=19 #17

@@ -1,3 +1,7 @@
+
+#by Yuri Costa
+#Euler challanges at http://projecteuler.net/
+#MIT License
 max = 0
 100.upto(999) 
 { |a|

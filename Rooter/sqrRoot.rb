@@ -1,3 +1,7 @@
+#by Yuri Costa
+#Euler challanges at http://projecteuler.net/
+#MIT License
+
 def factor(n)
   i=2 # start at 2 since all is divisible by one
   prime = true

@@ -1,3 +1,7 @@
+#by Yuri Costa
+#Euler challanges at http://projecteuler.net/
+#MIT License
+
 $ct = 1
 $long = 0
 $final = 0

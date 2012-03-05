@@ -1,3 +1,7 @@
+#by Yuri Costa
+#Euler challanges at http://projecteuler.net/
+#MIT License
+
 #cypher problems
 
 z=1

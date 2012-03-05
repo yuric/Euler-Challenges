@@ -1,3 +1,7 @@
+#by Yuri Costa
+#Euler challanges at http://projecteuler.net/
+#MIT License
+
 def mod(m,x,e)
 
 x**e % m

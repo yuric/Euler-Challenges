@@ -1,3 +1,8 @@
+
+#by Yuri Costa
+#Euler challanges at http://projecteuler.net/
+#MIT License
+
 file = File.open("euler40.txt","r+")
 for i in (1..250000)
   file.print("#{i}")

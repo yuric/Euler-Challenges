@@ -1,3 +1,6 @@
+#by Yuri Costa
+#Euler challanges at http://projecteuler.net/
+#MIT License
 a=[75]
 b=[95, 64]
 c=[17, 47, 82]

@@ -1,3 +1,7 @@
+#by Yuri Costa
+#Euler challanges at http://projecteuler.net/
+#MIT License
+
 # prime numbers are only divisible by unity and themselves
 # (1 is not considered a prime number by convention)
 

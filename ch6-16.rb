@@ -1,3 +1,7 @@
+
+#by Yuri Costa
+#Euler challanges at http://projecteuler.net/
+#MIT License
 # Primitive Pythagorian Triplets finder.
 
 def gcd(x,y)

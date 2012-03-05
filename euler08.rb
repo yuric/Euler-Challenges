@@ -1,3 +1,6 @@
+#by Yuri Costa
+#Euler challanges at http://projecteuler.net/
+#MIT License
 ct = 0
 major = ""
 file = File.new("p8num.txt", "r")

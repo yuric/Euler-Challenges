@@ -1,3 +1,7 @@
+#by Yuri Costa
+#Euler challanges at http://projecteuler.net/
+#MIT License
+
 counter=1
 int=0
 file = File.new("p13num.txt", "r")

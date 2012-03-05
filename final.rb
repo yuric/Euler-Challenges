@@ -1,3 +1,8 @@
+
+#by Yuri Costa
+#Euler challanges at http://projecteuler.net/
+#MIT License
+
 def gcd(x,y)
 while y != 0 
   r = x % y 

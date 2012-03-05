@@ -1,3 +1,6 @@
+#by Yuri Costa
+#Euler challanges at http://projecteuler.net/
+#MIT License
 
 fib_c = Hash.new{ |h, n| 
   if n < 2  

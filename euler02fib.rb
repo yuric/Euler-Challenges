@@ -1,3 +1,6 @@
+#by Yuri Costa
+#Euler challanges at http://projecteuler.net/
+#MIT License
 
 # calculate Fibonacci(20)
 # for benchmark
